@@ -1,0 +1,33 @@
+.titulo{
+    text-align: center;
+    color: purple;
+    font-size:large;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+td{
+    padding: 0 10px;
+    text-align: center;
+}
+
+th{
+    padding: 0 5px;
+}
+
+.primeira {
+    font-weight: bold;
+}
+
+.tabela-1 {
+    place-items: center;
+}
+
+.att {
+    padding: 5px 10px;
+    font-size: x-large;
+    color: red;
+
+}
